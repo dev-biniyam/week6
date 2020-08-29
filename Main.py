@@ -1,6 +1,9 @@
 import data
 import model
 
+data = data.Data()
+model = model.Model()
+
 print("fetching data...")
 mydata = data.fetch_dataset()
 print("dropping correlated features...")

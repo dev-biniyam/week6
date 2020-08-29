@@ -14,3 +14,8 @@ Model.py - training methods
 Data.py - preprocessing methods
 Requirements.txt - required libraries
 Notebooks - Jupyter Notebooks used in the project
+
+**How to run the code**
+- clone the repo
+- install the required libraries
+- run python Main.py on your command line
